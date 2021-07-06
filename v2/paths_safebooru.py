@@ -1,7 +1,0 @@
-base_vgg_model = './data/models/vgg_base.json'
-base_vgg_weights = './data/models/vgg_base.h5'
-model_path = './data/models/'
-tags_path = './data/safebooru/tags.json'
-data_path = './data/safebooru/data.json'
-img_path = './data/safebooru/images/'
-csv_path = './data/safebooru/all_data.csv'
