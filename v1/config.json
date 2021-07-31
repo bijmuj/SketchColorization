@@ -1,0 +1,11 @@
+{
+    "batch_size": 16,
+    "val_batch_size": 5,
+    "buffer_size": 800,
+    "epochs": 50,
+    "lambda": 100,
+    "lr": 0.0002,
+    "dataset": "put/dataset/path/here",
+    "ckpt": "put/checkpoint/path/here",
+    "wandb":1
+}
