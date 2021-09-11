@@ -4,6 +4,13 @@ Trying to do AI based sketch line art colorization. Mostly focused on style tran
 
 For info on all the runs and logs: [W&B project link](https://wandb.ai/bijin/sketch_colorization?workspace=user-bijin)
 
+## Neural Style Transfer
+
+I don't remember why I didn't try this initially. Not that it matters, the results are still not up to par. The outlines have become much fuzzier and it fails to keep colors within them. Credit for the code goes to [Tensorflow Tutorials](https://www.tensorflow.org/tutorials/generative/style_transfer).
+
+![NST example](./Images/NeuralStyleTransfer.png)
+
+
 ## AE
 
 Tried using a simple autoencoder as a baseline. Did not work out well. Images are blurry and might as well be grayscale.
